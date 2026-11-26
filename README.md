@@ -1,9 +1,9 @@
 # Hi, I'm Chinmayee S 👋
 
-### AI/ML Engineer in Development | Software Developer | Applied AI Research Enthusiast
+### AI/ML Engineering Student | Software Developer | Applied AI Research Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Computer+Vision+%7C+Edge+AI+%7C+TinyML;Software+Engineering+%26+System+Design;Building+Intelligent+Scalable+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Computer+Vision+%7C+Deep+Learning+%7C+Edge+AI;Software+Engineering+%26+System+Design;Research+%7C+Development+%7C+Innovation"/>
 </p>
 
 <p align="center">
@@ -18,28 +18,24 @@
 
 ---
 
-## 01 | Engineering Profile
+## 👩‍💻 About Me
 
-I am an Artificial Intelligence and Machine Learning engineering student at BNM Institute of Technology, Bengaluru, focused on developing intelligent, data-driven and computationally efficient software solutions.
+I am an Artificial Intelligence and Machine Learning engineering student at BNM Institute of Technology, Bengaluru, with a strong interest in applied artificial intelligence, computational intelligence, software engineering and emerging technologies.
 
-My technical interests span applied machine learning, computer vision, edge intelligence, geospatial analytics, software engineering and immersive computing.
+My technical focus involves understanding and developing intelligent systems through algorithmic problem-solving, data-driven decision-making, machine learning methodologies and efficient software architectures.
 
-I am particularly interested in translating theoretical machine learning concepts into practical systems through data preprocessing, feature engineering, model development, performance evaluation and application integration.
+I am passionate about bridging the gap between theoretical computer science concepts and practical engineering applications through continuous learning, research, experimentation and innovation.
 
-### Core Technical Interests
-
-- Artificial Intelligence and Applied Machine Learning
-- Computer Vision and Intelligent Image Processing
-- Edge AI and Resource-Constrained Machine Learning
-- Software Architecture and System Design
-- Geospatial Intelligence and Remote Sensing
-- Full-Stack Application Development
-- Extended Reality and Interactive 3D Systems
-- Algorithmic Problem Solving
+- 🎓 Artificial Intelligence and Machine Learning
+- 🏫 BNM Institute of Technology, Bengaluru
+- 🔬 Applied AI and Research Enthusiast
+- 💻 Software Development and Algorithmic Problem Solving
+- 🌐 Exploring Emerging and Immersive Technologies
+- 🤝 Open to Internships, Freelancing and Technical Collaborations
 
 ---
 
-## 02 | Technical Stack
+## ⚡ Technical Stack
 
 ### Programming Languages
 
@@ -48,7 +44,7 @@ I am particularly interested in translating theoretical machine learning concept
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### AI, Machine Learning & Computer Vision
+### Artificial Intelligence & Machine Learning
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -57,7 +53,7 @@ I am particularly interested in translating theoretical machine learning concept
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-### Web Technologies
+### Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -70,262 +66,131 @@ I am particularly interested in translating theoretical machine learning concept
 ![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
 ![WebXR](https://img.shields.io/badge/WebXR-6C47FF?style=for-the-badge)
 
-### Development Tools & Version Control
+### Development Environment & Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-## 03 | Technical Competencies
+## 🧠 Technical Competencies
 
-| Domain | Technical Concepts |
+| Technical Domain | Concepts & Methodologies |
 |---|---|
+| Artificial Intelligence | Intelligent Systems, Applied AI, Computational Intelligence |
 | Machine Learning | Supervised Learning, Unsupervised Learning, Classification, Regression, Clustering |
+| ML Algorithms | KNN, Decision Trees, Random Forest, K-Means, DBSCAN |
 | Model Evaluation | Accuracy, Precision, Recall, F1-Score, ROC-AUC, Cross-Validation |
-| Computer Vision | Image Preprocessing, Object Detection, Feature Extraction, Defect Localization |
-| Data Science | Exploratory Data Analysis, Data Cleaning, Feature Engineering, Visualization |
-| Dimensionality Reduction | PCA, LDA, Random Projection |
-| Edge AI | TinyML, Keyword Spotting, Model Quantization Concepts |
-| Software Engineering | OOP, Modular Architecture, Exception Handling, MVC Concepts |
+| Computer Vision | Image Processing, Object Detection, Feature Extraction, Image Classification |
+| Data Analytics | Data Cleaning, Exploratory Data Analysis, Feature Engineering, Visualization |
+| Dimensionality Reduction | PCA, LDA, Random Projection, LLE |
+| Time Series Analysis | Trend, Seasonality, Autocorrelation, Forecasting |
+| Edge Intelligence | TinyML, Keyword Spotting, Model Optimization Concepts |
+| Software Engineering | SDLC, Modular Architecture, MVC, System Design |
+| Object-Oriented Programming | Encapsulation, Inheritance, Polymorphism, Abstraction |
 | Data Structures | Arrays, Collections, Searching, Sorting |
 | Operating Systems | Process Management, Scheduling, Memory Management, IPC |
-| Computer Networks | TCP/IP, OSI Model, Network Protocols, Subnetting |
+| Computer Networks | TCP/IP, OSI Model, Network Protocols, IP Addressing, Subnetting |
 | Cybersecurity | Cryptography, Information Security, Network Security Fundamentals |
-| Geospatial Analytics | Raster Processing, Spectral Indices, Spatial Analysis, Change Detection |
-| Immersive Computing | 3D Rendering, Scene Management, WebXR, Interactive Environments |
+| Geospatial Analytics | Raster Processing, Spectral Indices, Remote Sensing, Change Detection |
+| Immersive Computing | 3D Rendering, Virtual Reality, WebXR |
 
 ---
 
-## 04 | Featured Engineering Projects
-
-### 01. AI-Based Industrial Defect Inspection
-
-**Domain:** Computer Vision | Industrial Automation | Applied AI
-
-An AI-driven visual inspection project designed to investigate automated defect detection in paper manufacturing and 3D-printed products.
-
-#### Proposed System Architecture
-
-```mermaid
-flowchart LR
-    A[Image Acquisition] --> B[Image Preprocessing]
-    B --> C[YOLO Detection Model]
-    C --> D[Defect Localization]
-    D --> E[Severity Analysis]
-    E --> F[Quality Inspection Output]
-```
-
-#### Technical Focus
-
-- Camera-based visual inspection
-- Image preprocessing and normalization
-- YOLO-based defect detection
-- Bounding box localization
-- Defect classification and severity estimation
-- Inference latency and throughput analysis
-- Conveyor belt speed optimization
-- Evaluation of camera-only inspection approaches
-
-**Technology Stack:** Python, OpenCV, YOLO, Computer Vision
-
-**Status:** Research and Development
-
----
-
-### 02. NAVIRA — Edge AI Keyword Spotting
-
-**Domain:** TinyML | Edge Computing | Speech Processing
-
-A keyword-activated speech processing architecture designed to reduce unnecessary audio transmission through on-device keyword detection.
-
-#### Proposed System Architecture
+## 🤖 AI/ML Engineering Methodology
 
 ```mermaid
 flowchart TD
-    A[Microphone] --> B[Edge Device]
-    B --> C[Audio Feature Extraction]
-    C --> D[TinyML KWS Model]
-    D --> E{NAVIRA Detected?}
-    E -->|No| B
-    E -->|Yes| F[Audio Streaming]
-    F --> G[ASR Server]
-    G --> H[Speech-to-Text]
+    A[Problem Formulation] --> B[Data Acquisition]
+    B --> C[Data Preprocessing]
+    C --> D[Exploratory Data Analysis]
+    D --> E[Feature Engineering]
+    E --> F[Model Selection]
+    F --> G[Model Training]
+    G --> H[Performance Evaluation]
+    H --> I{Performance Acceptable?}
+    I -->|No| J[Hyperparameter Optimization]
+    J --> G
+    I -->|Yes| K[Model Deployment]
+    K --> L[Monitoring and Improvement]
 ```
 
-#### AI/ML Research Components
+### Model Development and Evaluation
 
-- Keyword spotting for the wake word NAVIRA
-- Audio preprocessing and feature extraction
-- Positive, negative and background-noise sampling
-- Data augmentation strategies
-- Lightweight neural network architectures
-- Quantization and model compression strategies
-- Confidence threshold optimization
-- False Acceptance Rate and False Rejection Rate
-- Inference latency and memory footprint evaluation
-
-**Technology Focus:** TinyML, Keyword Spotting, Audio Signal Processing, Edge AI
-
-**Status:** AI/ML Research and System Design
+- Data preprocessing and normalization
+- Feature extraction and feature selection
+- Training, validation and testing strategies
+- Cross-validation methodologies
+- Hyperparameter tuning
+- Confusion matrix analysis
+- Bias-variance trade-off
+- Overfitting and underfitting analysis
+- Model generalization
+- Computational efficiency
+- Inference latency analysis
 
 ---
 
-### 03. TerraSync — Blue Carbon Monitoring
+## 💻 Software Engineering Foundations
 
-**Domain:** Geospatial AI | Remote Sensing | Environmental Intelligence
-
-A satellite-based mangrove monitoring project focused on identifying spatial and temporal vegetation changes in the Gulf of Kachchh, Gujarat.
-
-#### Technical Specifications
-
-| Parameter | Specification |
-|---|---|
-| Study Area | Jamnagar coastal region |
-| Area | 25 square kilometres |
-| Satellite | Sentinel-2 Level-2A |
-| Coordinate System | EPSG:32642 |
-| Baseline | 11 March 2022 |
-| Comparison | 10 March 2025 |
-| Spectral Bands | B02, B03, B04, B08, B11, B12 |
-| Spectral Indices | NDVI, MNDWI |
-| Reference Dataset | Global Mangrove Watch |
-
-#### Processing Pipeline
-
-```mermaid
-flowchart LR
-    A[Satellite Imagery] --> B[Spatial Clipping]
-    B --> C[Reprojection]
-    C --> D[Cloud and Shadow Masking]
-    D --> E[Spectral Index Generation]
-    E --> F[Mangrove Mapping]
-    F --> G[Change Detection]
-    G --> H[Geospatial Dashboard]
-```
-
-#### Technical Contributions
-
-- Multispectral satellite imagery preprocessing
-- Raster clipping and coordinate transformation
-- Scene Classification Layer masking
-- NDVI and MNDWI computation
-- Candidate mangrove and non-mangrove identification
-- Multitemporal spatial analysis
-- Geospatial visualization
-
-Global Mangrove Watch is used as candidate reference data rather than independent ground truth.
-
-**Technology Stack:** QGIS, Sentinel-2, GIS, Remote Sensing
-
-**Status:** Preprocessing Completed; Change Analysis in Development
-
----
-
-### 04. Hospital Management System
-
-**Domain:** Java | Object-Oriented Programming | Software Engineering
-
-A modular Java console application designed to manage hospital operations through structured service and model layers.
-
-#### System Architecture
-
-```mermaid
-flowchart TD
-    A[Console Interface] --> B[Application Layer]
-    B --> C[Patient Service]
-    B --> D[Doctor Service]
-    B --> E[Appointment Service]
-    B --> F[Billing Service]
-    C --> G[Model Layer]
-    D --> G
-    E --> G
-    F --> G
-```
-
-#### Functional Modules
-
-- Patient registration and automatic ID generation
-- Doctor registration and scheduling
-- Appointment booking and cancellation
-- Symptom-based specialist recommendation
-- Appointment searching
-- Billing and record management
-
-#### Engineering Concepts
+### Programming & Algorithmic Problem Solving
 
 - Object-Oriented Programming
-- Encapsulation and Abstraction
-- Classes and Objects
-- Modular Service Architecture
-- Arrays and Collections
-- Linear Search
+- Data Structures and Algorithms
+- Modular Programming
 - Exception Handling
 - Input Validation
-- Java Date and Time Handling
+- Time and Space Complexity
+- Searching and Sorting Techniques
+- Debugging and Code Optimization
 
-**Technology Stack:** Java, Git, GitHub
+### Software Development Principles
 
-**Status:** Functional Console Application
+- Software Development Life Cycle
+- Requirement Analysis
+- Software Design and Architecture
+- Modular System Development
+- Software Testing and Validation
+- Version Control and Collaboration
+- Technical Documentation
+- Maintainability and Scalability Concepts
 
----
+### Computer Science Fundamentals
 
-### 05. Mjolnir Worthiness VR
-
-**Domain:** Virtual Reality | Interactive 3D Graphics | Web Development
-
-An immersive browser-based virtual reality game exploring interactive 3D environments and physics-inspired gameplay.
-
-#### Technical Focus
-
-- Three-dimensional scene construction
-- Camera and lighting configuration
-- 3D asset integration
-- Interactive object manipulation
-- Game-state management
-- WebXR session integration
-- Frontend and backend communication
-- Browser-based rendering
-
-**Technology Stack:** Three.js, JavaScript, WebXR, Vite
-
-**Status:** Under Development
-
----
-
-## 05 | AI/ML Development Methodology
-
-```mermaid
-flowchart LR
-    A[Problem Definition] --> B[Data Acquisition]
-    B --> C[Data Preprocessing]
-    C --> D[Feature Engineering]
-    D --> E[Model Selection]
-    E --> F[Model Training]
-    F --> G[Evaluation]
-    G --> H[Optimization]
-    H --> I[Deployment]
-    G -->|Iterate| D
-```
-
-### Model Evaluation Focus
-
-- Classification Accuracy
-- Precision and Recall
-- F1-Score
-- Confusion Matrix
-- ROC-AUC
-- Cross-Validation
-- Inference Latency
-- Computational Complexity
-- Memory Utilization
-- Model Generalization
+- Operating System Architecture
+- CPU Architecture and Instruction Processing
+- Process and Thread Management
+- Interprocess Communication
+- Computer Networking
+- Database Management Concepts
+- Information Security
+- Cryptographic Fundamentals
+- Probability and Statistics
+- Linear Algebra for Machine Learning
 
 ---
 
-## 06 | Certifications & Professional Development
+## 🔬 Research & Technical Interests
+
+- Applied Artificial Intelligence
+- Deep Learning Architectures
+- Real-Time Computer Vision
+- Edge AI and TinyML
+- Intelligent Automation
+- Geospatial Intelligence
+- Model Compression and Quantization
+- Explainable Artificial Intelligence
+- Extended Reality and Spatial Computing
+- Generative AI and Large Language Models
+- Sustainable Technology Solutions
+- Human-Computer Interaction
+
+---
+
+## 🏆 Certifications & Professional Development
 
 | Certification | Issuing Organization |
 |---|---|
@@ -340,88 +205,82 @@ flowchart LR
 | Programming Using C++ | Infosys Springboard |
 | Project on C++ | Infosys Springboard |
 
-[View Certifications on LinkedIn](https://www.linkedin.com/in/chinmayee-s-4a7694333/)
+[View Professional Profile & Certifications](https://www.linkedin.com/in/chinmayee-s-4a7694333/)
 
 ---
 
-## 07 | Computer Science Foundations
-
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Software Engineering Principles
-- Operating System Architecture
-- CPU Architecture and Instruction Processing
-- Computer Networks and Communication Protocols
-- Database Management Concepts
-- Information Security and Cryptography
-- Probability and Statistics
-- Mathematical Foundations of Machine Learning
-
----
-
-## 08 | Currently Exploring
+## 📚 Currently Exploring
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Research and Learning Roadmap
+### Professional Learning Roadmap
 
-- Deep Neural Network Architectures
-- Real-Time Object Detection
-- Model Compression and Quantization
+- Advanced Machine Learning
+- Deep Neural Networks
+- Full-Stack Application Development
+- REST API Architecture
+- Cloud Computing and Deployment
 - Machine Learning Operations (MLOps)
-- REST API Development
-- Full-Stack System Integration
-- Cloud-Based Model Deployment
-- Explainable Artificial Intelligence
-- Generative AI and Large Language Models
+- Generative AI Engineering
+- Large Language Model Integration
+- Scalable Software Architecture
+- Containerization and Deployment
 
 ---
 
-## 09 | GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinmayee1096&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chinmayee1096&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayee1096&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
+
+### 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=chinmayee1096&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
-### Contribution Activity
+### 📈 Contribution Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chinmayee1096&theme=tokyo-night&hide_border=true)](https://github.com/chinmayee1096)
 
+### 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chinmayee1096&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
 ---
 
-## 10 | Engineering Opportunities
+## 🤝 Open to Professional Opportunities
 
-Open to collaborating on:
-
-- Applied AI and Machine Learning Projects
+- Artificial Intelligence and Machine Learning Internships
+- Software Engineering Internships
+- Python and Java Development
 - Computer Vision Applications
-- Software Development
-- Research and Technical Innovation
-- Freelance Development Projects
-- AI/ML and Software Engineering Internships
+- Freelance Software Development
+- Research and Development
+- Technical Collaborations
+- Hackathons and Innovation Challenges
 - Open-Source Contributions
-- Interdisciplinary Engineering Projects
 
 ---
 
-## 11 | Professional Connectivity
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chinmayee-s-4a7694333/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/chinmayee1096">
-    <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -432,7 +291,9 @@ Open to collaborating on:
 </p>
 
 <p align="center">
-  Transforming computational intelligence into practical engineering solutions.
+  Leveraging computational intelligence, algorithmic thinking and software engineering to build meaningful technological solutions.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
